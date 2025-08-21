@@ -13,9 +13,3 @@ Working backwards from the UI, the UI screens were made first. I then added acti
 
 ## How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
 As I changed small snippets, I ran the program every few minutes to ensure nothing broke. When I made breaking changes, I often viewed my local code history to see what mistakes I may have made or what had been added and needed revision. This is important because the wrong punctuation or syntax can break the entire app. When trying to add something I was unfamiliar with there was a few times I had to remove features to keep functionality.
-
-## Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
-Connecting everything in the very middle is the most challenging. I started becoming more familiar with how to initalize new activities towards the end of my coding. I had to get created with how to reset the view since I was not familiar with the process as I did not previously have a lot of experience with it. I also added a settings icon which was hard to figure out how to display correctly. I didn't want it hiding the battery icons and could not quite figure out how to make it into a bar at the top so I left it as a small box in the upper right hand corner of the app upon login.
-
-## In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
-I like the login screen the most. It is very simple and was easiest to implement. I saw this screen having reusable functionality across a variety of apps. I wrote my logic and then watched one of the Google Play videos where it discussed the login logic and I was proud of myself that I had set up my logic in the exact way they discussed in the video without having watched the video first.
